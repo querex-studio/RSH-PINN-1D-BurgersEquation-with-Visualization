@@ -1,5 +1,5 @@
 """
-Physics-Informed Neural Network for 1D Burgers' Equation
+Physics-Informed Neural Network (PINNs) for 1D Burgers' Equation
 COMPLETE ENHANCED VERSION with 6 Separate Visualizations
 
 Solves: ∂u/∂t + u*∂u/∂x = ν*∂²u/∂x²
